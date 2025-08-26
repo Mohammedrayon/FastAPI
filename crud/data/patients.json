@@ -1,0 +1,39 @@
+{
+    "P001": {
+        "name": "John Doe",
+        "age": 30,
+        "gender": "male",
+        "medical_history": []
+    },
+    "P002": {
+        "name": "Jane Smith",
+        "age": 25,
+        "gender": "female",
+        "medical_history": []
+    },
+    "P003": {
+        "name": "Alice Brown",
+        "age": 40,
+        "gender": "female",
+        "medical_history": [
+            "diabetes"
+        ]
+    },
+    "P004": {
+        "name": "Bob White",
+        "age": 50,
+        "gender": "male",
+        "medical_history": [
+            "hypertension",
+            "asthma"
+        ]
+    },
+    "P005": {
+        "name": "Charlie Green",
+        "age": 35,
+        "gender": "male",
+        "medical_history": [
+            "allergy"
+        ]
+    }
+}
